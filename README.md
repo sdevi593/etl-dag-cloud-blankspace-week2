@@ -40,6 +40,7 @@ Here are the steps of set it up:
 # Airflow on Composer
 After the environment is successfully created, the next step is to access airflow webpage on composer and run the dag. Here are the detail steps:
 1. Click the Airflow webserver link option on Composer Environments list (This will show us the     same airflow page as http://localhost:8080 when we use local airflow.
+![image](https://user-images.githubusercontent.com/59094767/124639450-61bb2180-deb6-11eb-86d1-7e6bae40a1ca.png)
 2. Create json file on your project to store airflow variables. Let's named the file as variable.json, with minimum key-values are:
    {
    "PROJECT_ID": "",
