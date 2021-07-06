@@ -1,2 +1,4 @@
 # etl-dag-cloud-blankspace-week2
-Running etl dag on google cloud
+Running batch ETL DAG using Google Cloud Composer
+
+
