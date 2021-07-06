@@ -1,0 +1,10 @@
+{
+    "BUCKET_PATH"  : "",
+    "BUCKET_INPUT" : "",
+    "PROJECT_ID": "",
+    "SOURCE_PROJECT_ID": "",
+    "OUTPUT_FULL_TABLE_BQ": "",
+    "OUTPUT_TOP_TABLE_BQ": "",
+    "GCE_REGION": "",
+    "GCE_ZONE": "",
+}
