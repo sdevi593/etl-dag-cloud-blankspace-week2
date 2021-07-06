@@ -32,7 +32,7 @@ Here are the steps of set it up:
    - Python Version: 3
    - Cloud SQL machine type : db-n1-standard-2
    - Webserver machine type : composer-n1-webserver-2
-  6. Click Create Button
+  6. Fill the Environment Variable with ENVIRONMENT: production
   7. Please note that it will take several minutes for your environment to be created
   ![image](https://user-images.githubusercontent.com/59094767/124632868-ea35c400-deae-11eb-94dd-a147e8f9454a.png)
 
